@@ -1,0 +1,93 @@
+ACUERD_EJECUT,CLASIF_PRESUP,NOMB_CLAS_PRES,MONTO
+1844.0,51101,Sueldos,531149.98
+1844.0,51201,Sueldos,150577.42999999996
+1844.0,51401,Por Remuneraciones Permanentes,41909.22000000001
+1844.0,51402,Por Remuneraciones Eventuales,6364.040000000002
+1844.0,51501,Por Remuneraciones Permanentes,29889.400000000005
+1844.0,51502,Por Remuneraciones Eventuales,9031.169999999998
+1844.0,51701,Al Personal de Servicios Permanentes,28548.600000000002
+1844.0,51702,Al Personal de Servicios Eventuales,2455.69
+1844.0,51999,Remuneraciones Diversas,74.47
+1844.0,54315,Gastos Reservados,800000.0
+1929.0,54305,Servicios de Publicidad,3567675.0
+1929.0,54315,Gastos Reservados,3567675.0
+1990.0,51101,Sueldos,357509.94
+1990.0,51103,Aguinaldos,35049.6
+1990.0,51201,Sueldos,134339.05999999997
+1990.0,51203,Aguinaldos,8387.5
+1990.0,51401,Por Remuneraciones Permanentes,40692.02
+1990.0,51402,Por Remuneraciones Eventuales,9980.8
+1990.0,51501,Por Remuneraciones Permanentes,16626.8
+1990.0,51502,Por Remuneraciones Eventuales,6704.340000000003
+1990.0,51701,Al Personal de Servicios Permanentes,33175.63
+1990.0,51702,Al Personal de Servicios Eventuales,614.31
+1990.0,51999,Remuneraciones Diversas,1759.0
+1990.0,54101,Productos Alimenticios para Personas,60695.68
+1990.0,54103,Productos Agropecuarios y Forestales,27704.99
+1990.0,54104,Productos Textiles y Vestuarios,34144.2
+1990.0,54105,Productos de Papel y Cartón,57884.770000000004
+1990.0,54106,Productos de Cuero y Caucho,18450.28
+1990.0,54107,Productos Químicos,8378.11
+1990.0,54108,Productos Farmacéuticos y Medicinales,60375.17
+1990.0,54109,Llantas y Neumáticos,32010.86
+1990.0,54110,Combustibles y Lubricantes,189639.90999999997
+1990.0,54111,Minerales no Métalicos y Productos Derivados,37018.26
+1990.0,54112,Minerales Métalicos y Productos Derivados,13241.789999999999
+1990.0,54113,Materiales e Instrumental de Laboratorios y uso Médico,710.0
+1990.0,54114,Materiales de Oficina,40873.45
+1990.0,54115,Materiales Informáticos,31224.36
+1990.0,54116,"Libros , Textos, Utiles de Enseñanza y Publicaciones",14173.279999999999
+1990.0,54118,"Herramientas, Repuestos y Accesorios",47279.17999999999
+1990.0,54119,Materiales Eléctricos,22519.7
+1990.0,54199,Bienes de Uso y Consumo Diversos,748060.39
+1990.0,54201,Servicios de Energía Eléctrica,309121.36
+1990.0,54202,Servicios de Agua,80600.55
+1990.0,54203,Servicios de Telecomunicaciones,217556.21000000002
+1990.0,54204,Servicios de Correos,8156.17
+1990.0,54301,Mantenimientos y Reparaciones de Bienes Muebles,205844.58999999997
+1990.0,54302,Mantenimientos y Reparaciones de Vehículos,117400.13
+1990.0,54303,Mantenimientos y Reparaciones de Bienes Inmuebles,58172.6
+1990.0,54304,"Transportes, Fletes y Almacenamientos",10000.0
+1990.0,54305,Servicios de Publicidad,485551.17
+1990.0,54306,Servicios de Vigilancia,50804.17
+1990.0,54307,Servicios de Limpiezas y Fumigaciones,163314.97
+1990.0,54308,Servicios de Lavanderías y Planchado,2517.2
+1990.0,54309,Servicios de Laboratorios,994.62
+1990.0,54310,Servicios de Alimentación,258704.25
+1990.0,54313,"Impresiones, Publicaciones y Reproducciones",128280.39
+1990.0,54315,Gastos Reservados,5764503.0
+1990.0,54316,Arrendamiento de Bienes Muebles,251512.96
+1990.0,54317,Arrendamiento de Bienes Inmuebles,4578.25
+1990.0,54399,Servicios Generales y Arrendamientos Diversos,133059.22
+1990.0,54401,Pasajes al Interior,47989.24
+1990.0,54402,Pasajes al Exterior,70177.28
+1990.0,54403,Viáticos por Comisión Interna,30527.620000000003
+1990.0,54404,Viáticos por Comisión Externa,31697.93
+1990.0,54501,Servicios Médicos,18441.04
+1990.0,54503,Servicios Jurídicos,1700.0
+1990.0,54505,Servicios de Capacitación,107325.0
+1990.0,54508,Estudios e Investigaciones,25000.0
+1990.0,54599,"Consultorías, Estudios e Investigaciones Diversas",307417.7
+1990.0,55599,"Impuestos, Tasas y Derechos Diversos",36061.1
+1990.0,55601,Primas y Gastos de Seguros de Personas,19215.82
+1990.0,55602,Primas y Gastos de Seguros de Bienes,95823.08
+1990.0,55603,Comisiones y Gastos Bancarios,5000.0
+1990.0,56303,A Organismos sin Fines de Lucro,172864.0
+1990.0,56304,A Personas Naturales,1675.0
+1990.0,56305,Becas,4275.0
+1990.0,61101,Mobiliarios,18988.1
+1990.0,61102,Maquinarias y Equipos,16244.34
+1990.0,61103,Equipos Médicos y de Laboratorios,655.0
+1990.0,61104,Equipos Informáticos,8740.15
+1990.0,61199,Bienes Muebles Diversos,2768.41
+1990.0,61403,Derechos de Propiedad Intelectual,16525.0
+1990.0,61699,Obras de Infraestructura Diversas,150000.0
+2009.0,51101,Sueldos,39370.759999999995
+2009.0,51103,Aguinaldos,450.0
+2009.0,51201,Sueldos,446061.44999999995
+2009.0,51203,Aguinaldos,1834.24
+2009.0,51401,Por Remuneraciones Permanentes,3310.6200000000003
+2009.0,51402,Por Remuneraciones Eventuales,18635.300000000003
+2009.0,51501,Por Remuneraciones Permanentes,5602.310000000003
+2009.0,51502,Por Remuneraciones Eventuales,29169.319999999992
+2009.0,54315,Gastos Reservados,544434.0
